@@ -176,6 +176,9 @@ a {
   width: 450px;
   border-radius: 50%;
   filter: drop-shadow(4px 4px 9px #000a);
+  
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .home-page .container .home-image:hover {
